@@ -27,13 +27,13 @@
 
 </div>
 
-$ whoami
-class RudrakshaSharma:
-    role = "Computer Science & Engineering — AI/ML"
-    university = "GLA University, Mathura"
-    interests = ["Applied AI", "Computer Vision", "Data Engineering", "Robotics"]
-    languages = ["Python", "Java", "C", "SQL"]
-    mindset = "Build it. Measure it. Improve it."
+    $ whoami
+    class RudrakshaSharma:
+        role = "Computer Science & Engineering — AI/ML"
+        university = "GLA University, Mathura"
+        interests = ["Applied AI", "Computer Vision", "Data Engineering", "Robotics"]
+        languages = ["Python", "Java", "C", "SQL"]
+        mindset = "Build it. Measure it. Improve it."
 
     def current_mission(self):
         return "Turn machine-learning ideas into reliable, usable systems."
